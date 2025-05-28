@@ -1,0 +1,63 @@
+:root{
+    --bg-blue:#93B5C9;
+    --bg-wine:#AB2849;
+
+}
+
+.div-1{
+    background: var(--bg-blue);
+    width: 100%;
+    height: 250px;
+}
+
+.div-2{
+    background: var(--bg-wine);
+    width: 100%;
+    height: 400px;
+}
+
+.div-3{
+    position: relative;
+    margin-top: 20px;
+    left: 350px;
+    background: var(--bg-wine);
+    height: 150px;
+    width: 74%;
+}
+
+.div-4{
+    position: relative;
+    margin-top: 20px;
+    left: 350px;
+    background: var(--bg-wine);
+    height: 150px;
+    width: 74%;
+}
+
+.div-5{
+    position: relative;
+    margin-top: 20px;
+    left: 350px;
+    background: var(--bg-wine);
+    height: 150px;
+    width: 74%;
+}
+
+.div-6{
+    position: relative;
+    margin-top: 20px;
+    left: 350px;
+    background: var(--bg-wine);
+    height: 150px;
+    width: 74%;
+}
+
+.div-7{
+    position: relative;
+    margin-top: 20px;
+    left: 40px;
+    background: var(--bg-wine);
+    height: 100px;
+    width: 94%;
+}
+
